@@ -1,3 +1,26 @@
-@media screen and (max-width: 1200px){
+@media screen and (max-width: 1180px){
+    .img{
+        width: 500px;
+    }
+    .second{
+        width: 1000px;
+    }
+@media screen and (max-width: 890px) {
+    .img{
+        width: 300px;
+    }
+    .block-left{
+        padding-bottom: 200px;
+    }
+    .second{
+        width: 800px;
+    }
+    .inner{
+        width: 880px;
+    }
+    .block-first{
+        width: 300px;
+    }
+}
 
 }
