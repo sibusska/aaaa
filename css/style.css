@@ -25,7 +25,6 @@ li{
     display: flex;
 }
 .block{
-    /* padding-bottom: 289px; */
     align-items: center;
 }
 .block-left{
@@ -41,4 +40,25 @@ li{
 }
 .text{
     padding-right: 20px;
+}
+.title{
+    text-align: center;
+}
+.h1{
+    font-size: 60px;
+}
+.inner{
+    padding-top: 40px;
+    width: 1180px;
+    color: #092F33;
+    padding-bottom: 50px;
+    
+}
+.block-first{
+    width: 479px;
+    color: #092F33;
+}
+.block-second{
+    width: 479px;
+    color: #092F33;
 }
