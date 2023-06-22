@@ -17,3 +17,28 @@ li{
     margin: 0 auto;
     padding: 0 15px;
 }
+.text{
+    background: #219653;
+    color: white;
+}
+.blocks{
+    display: flex;
+}
+.block{
+    /* padding-bottom: 289px; */
+    align-items: center;
+}
+.block-left{
+    padding-bottom: 100px;
+    align-items: center;
+}
+.img{
+    padding-bottom: 300px;
+    
+}
+.text-p{
+    padding-top: 20px;
+}
+.text{
+    padding-right: 20px;
+}
